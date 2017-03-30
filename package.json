@@ -1,6 +1,6 @@
 {
   "name": "livescript-async",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "LiveScript with async/await patch added",
   "keywords": [
     "language",
