@@ -1,7 +1,7 @@
 {
-  "name": "livescript",
+  "name": "livescript-async",
   "version": "1.5.0",
-  "description": "LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.",
+  "description": "LiveScript with async/await patch added",
   "keywords": [
     "language",
     "compiler",
@@ -12,7 +12,7 @@
   ],
   "author": "George Zahariev <z@georgezahariev.com>",
   "homepage": "http://livescript.net",
-  "bugs": "https://github.com/gkz/LiveScript/issues",
+  "bugs": "https://github.com/gkovacs/livescript-async/issues",
   "license": "MIT",
   "engines": {
     "node": ">= 0.8.0"
@@ -41,7 +41,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/gkz/LiveScript.git"
+    "url": "git://github.com/gkovacs/livescript-async.git"
   },
   "dependencies": {
     "prelude-ls": "~1.1.2",
